@@ -1,1 +1,1 @@
-source $HOME/.config/fish/themes/tokyonight/tokyonight_night.fish
+source /home/sean/.config/fish//themes/tokyonight/tokyonight_night.fish
